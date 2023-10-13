@@ -57,7 +57,7 @@
 }
 
 #portfolio button:after {
-    content: url('../img/icons/zoom.svg');
+    content: url('../img/íconos/zoom.svg');
     width: 50%;
     position: absolute;
     z-index: 2;
